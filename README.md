@@ -1,7 +1,7 @@
 # RANS 1.0 -Windows - External aerodynamics CFD 
 OpenFoam for Windows 15.06 - Aerodynamics GUI for automotive / motorsport application using Qt and OpenGl.  
 
-Step 1: Install Openfoam for Windows 15.06 (from www.cfdsupport.com, please contact them, it is free software )
+Step 1: Install Openfoam for Windows 15.06 (from www.cfdsupport.com, please contact them, it is free software )     
 Step 2: RANSAero.exe start your project  
 Step 3: go to Tools/Environment and set Openfoam solver path and paraview for post-processing  
 Step 4: (install BCGISTAB solver in order to get good convergence) or change default settings  Turbulence models/Numerical settings
